@@ -11,10 +11,11 @@ As the HR Analytics expert, I analyzed employee data across departments and regi
 
 ## Datasets Used
 
-1. **Palmora Group emp-data.csv**  
+1. **Palmora Group emp-data.csv**
+   - <a href="https://github.com/NchedoAnulika/Palmora-Group-HR-Analytics/blob/main/Palmoria%20Group%20emp-data.csv">Dataset</a> 
    Contains employee details including gender, department, salary, performance rating, and location.
 
-2. **Palmora Group Bonus Rules.xlsx**  
+3. **Palmora Group Bonus Rules.xlsx**  
    Provides department-wise bonus rates based on performance ratings.
 
 ---
