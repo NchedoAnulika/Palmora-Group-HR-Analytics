@@ -60,7 +60,7 @@ As the HR Analytics expert, I analyzed employee data across departments and regi
 ---
 
 ## Power BI Dashboard
-- 
+- <a href="https://github.com/NchedoAnulika/Palmora-Group-HR-Analytics/blob/main/Palmora%20Group%20HR%20Analysis.pbix">Dashboard</a>
 
 ---
 
