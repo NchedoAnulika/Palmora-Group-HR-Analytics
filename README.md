@@ -16,7 +16,7 @@ As the HR Analytics expert, I analyzed employee data across departments and regi
    Contains employee details including gender, department, salary, performance rating, and location.
 
 3. **Palmora Group Bonus Rules.xlsx**
-   - <a href="https://github.com/NchedoAnulika/Palmora-Group-HR-Analytics/blob/main/Palmoria%20Group%20Bonus%20Rules.xlsx">Dataset</a>  
+   - <a href="https://github.com/NchedoAnulika/Palmora-Group-HR-Analytics/blob/main/Palmoria%20Group%20Bonus%20Rules.xlsx">Dataset</a>
    Provides department-wise bonus rates based on performance ratings.
 
 ---
@@ -59,6 +59,11 @@ As the HR Analytics expert, I analyzed employee data across departments and regi
 
 ---
 
+## Power BI Dashboard
+- 
+
+---
+
 ## Key Insights
 
 - **Gender Imbalance**: Certain departments (e.g., Engineering, Legal) are predominantly male.
@@ -78,7 +83,6 @@ As the HR Analytics expert, I analyzed employee data across departments and regi
 | `Palmora Group emp-data.csv`       | Employee dataset (not included here for privacy)            |
 | `Palmora Group Bonus Rules.xlsx`   | Bonus rule logic by performance and department              |
 | `screenshots/`                     | Exported images of dashboard views                          |
-| `Report_Export.pdf`                | Printable version of key insights and visual summaries      |
 
 ---
 
@@ -100,7 +104,7 @@ Palmora-HR-Analysis/
 - README.md
 - Palmora Group emp-data.csv
 - Palmora Group Bonus Rules.xlsx
-
+- Dashboard Screenshots
 
 
 ---
@@ -115,4 +119,4 @@ For questions, feedback, or collaboration:
 
 ## License
 
-This project is shared for educational and portfolio purposes only. Employee data is fictional.
+This project is shared for educational and portfolio purposes only.
